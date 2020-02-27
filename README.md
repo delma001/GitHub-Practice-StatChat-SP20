@@ -35,8 +35,8 @@
 | Name              | Class Section     | GitHub ID            | website for a GitHub repo         |  
 |:------------------|:------------------|:---------------------|:----------------------------------|  
 | Matthew Beckman   | Section 003       | mdbeckman            | <https://mdbeckman.github.io/>    |  
-| Chelsey Legacy    | Section 001       | calegacy             |  <https://github.com/calegacy>   |
-| Andrew Zieffler   | Section 021       | zief0002             | <https://zief0002.github.io/>    | 
+| Matthew Beckman   | Stat Chat         | mdbeckman         | <https://mdbeckman.github.io/2020-Twin-Cities-Stat-Chat/>    |  
+| Robert delMas     | Stat Chat         | delma001             | https://github.com/delma001       |
 
 
 <br>
